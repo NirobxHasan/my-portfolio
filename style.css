@@ -64,3 +64,37 @@ p{
   
 width: 80%;
 }
+.card{
+    margin-left: 5%;
+    margin-right: 5%;
+    box-shadow: 10px 10px 40px gray;
+    padding: 2%;
+    
+}
+
+#exp-item-01{
+    border-left: 10px solid blueviolet;
+}
+#exp-item-02{
+    border-left: 10px solid;
+    border-image: linear-gradient(#2600ff, #ff05ea);
+    border-image-slice: 1;
+}
+.contact-me{
+    margin-left: 30%;
+    margin-right: 30%;
+    margin-bottom: 10%;
+    padding: 5%;
+    border: 5px solid slateblue;
+   
+}
+form label{
+    display: block;
+    font-size: 20px;
+    margin: 2%;
+   
+}
+
+footer p{
+    text-align: center;
+}
