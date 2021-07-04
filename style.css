@@ -1,0 +1,53 @@
+body{
+    font-family: 'Poppins', sans-serif;
+    margin: 0;
+    padding: 0;
+}
+
+.header-section{
+    background-color: blueviolet;
+    padding: 7px;
+    width: 100%;
+    position: fixed;
+}
+.header-section .container ul li{
+    list-style: none;
+    display: inline;
+    padding: 2%;
+}
+.header-section .container ul li a{
+    text-decoration: none;
+    font-size: 25px;
+    color: cornsilk;
+}
+
+h1{
+    font-size:  50px;
+}   
+h3{
+    font-size: 30px;
+}
+p{
+    font-size: 20px;
+}
+
+.flex-section{
+    display: flex;
+    margin-bottom: 150px;
+}
+
+.half-width{
+    width: 50%;
+    margin-left: 5%;
+}
+.title{
+    margin-top: 100px;
+}
+.my1stimage{
+width: 100%;
+}
+
+.blue-color{
+    color: mediumblue;
+}
+
