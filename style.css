@@ -9,6 +9,7 @@ body{
     padding: 7px;
     width: 100%;
     position: fixed;
+    
 }
 .header-section .container ul li{
     list-style: none;
@@ -24,6 +25,9 @@ body{
 h1{
     font-size:  50px;
 }   
+h2{
+    font-size:  40px;
+}   
 h3{
     font-size: 30px;
 }
@@ -35,6 +39,12 @@ p{
     display: flex;
     margin-bottom: 150px;
 }
+/* .first-selection{
+    background-image: url(image/top-banner-2.png);
+    background-repeat: no-repeat;
+    
+  
+} */
 
 .half-width{
     width: 50%;
@@ -44,10 +54,13 @@ p{
     margin-top: 100px;
 }
 .my1stimage{
-width: 100%;
+    width: 100%;
 }
 
 .blue-color{
     color: mediumblue;
 }
-
+.my-2nd-image{
+  
+width: 80%;
+}
